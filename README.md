@@ -1,2 +1,2 @@
-# programming-c
-Programming C
+# プログラミングC講義
+プログラミングCの講義の補足資料
